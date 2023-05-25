@@ -6,7 +6,7 @@ export const siteTitle = "La Sueños Locos S.A. - I tuoi sogni diventano realtà
 export const siteDescription = "L'isola di Ons in Spagna, la tua isola dei sogni"
 
 export const menu = [
-    { title: 'Home', url: '/DreamIsland' },
+    { title: 'Home', url: '/' },
     { title: 'Sogni più richiesti', url: '#piu_richiesti'},
     { title: 'Sogni avverati', url: '#diventati_realta'},
     { title: 'Chi Siamo', url: '#footer'},
