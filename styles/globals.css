@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Figtree:wght@300&family=Roboto+Slab&display=swap');
 
 h1, h2, h3, h4 {
-    font-family: 'Bebas Neue', cursive !important;
+    font-family: 'Papyrus', cursive !important;
+    color: hwb(0 100% 0%) !important;
 }
 
 h5, h6, h, a, p, th, td {
-    font-family: 'Figtree', sans-serif !important;
+    font-family: 'Papyrus', sans-serif !important;
+    color: rgb(255, 255, 255) !important;
 }
 
 html,body {
     margin: 0 !important;
     padding: 0 !important;
     font-family: 'Figtree', sans-serif !important;
+    background-color: #555454c9;
 }
